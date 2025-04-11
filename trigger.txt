@@ -1,1 +1,1 @@
-nodered/node-red registry.cn-beijing.aliyuncs.com/ody/nodered/node-red
+nodered/node-red registry.cn-beijing.aliyuncs.com/ody/node-red
