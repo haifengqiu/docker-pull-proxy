@@ -1,1 +1,1 @@
-minio/minio registry.cn-beijing.aliyuncs.com/ody/minio
+nginx registry.cn-beijing.aliyuncs.com/ody/nginx
